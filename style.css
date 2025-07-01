@@ -96,6 +96,7 @@ section {
   transition: background 0.3s, box-shadow 0.3s;
 transform: translateY(0);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
+  font-size: 1.15rem;
 }
 
 
@@ -112,7 +113,7 @@ background: var(--accent);
 color: white;
 padding: 0.4rem 0.8rem;
 border-radius: 4px;
-font-size: 0.95rem;
+font-size: 1.1rem;
 }
 
 footer {
